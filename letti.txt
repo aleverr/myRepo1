@@ -1,12 +1,1 @@
-prima modifica
-
-Vi preghiamo di effetuare il bonifico in 5 giorni al seguente conto bancario:
-
-Intestatario:	Garnero Group S.r.l.
-IBAN:	IT19A0200846930000103199514
-Banca:	Unicredit Banca Ag. Venasca
-
-Nella causale del pagamento indicare il numero d'ordine. In caso contrario l'ordine non verrà elaborato.
-
-
-Riceverai una conferma dell'ordine (100127916) via email con i dettagli del tuo ordine e il link per seguirne i progressi.
+letti primo branch
